@@ -1,3 +1,16 @@
 .text-center {
   text-align: center;
 }
+.center {
+  margin: auto;
+  padding-inline: 20%;
+}
+h1 {
+  text-align: center;
+}
+img {
+  border-radius: 10px;
+}
+.c-orange {
+  color: orange;
+}
