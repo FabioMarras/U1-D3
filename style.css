@@ -8,9 +8,17 @@
 h1 {
   text-align: center;
 }
-img {
+video {
   border-radius: 10px;
 }
 .c-orange {
   color: orange;
+}
+.margin-20 {
+  padding-inline: 20%;
+}
+.b-yw {
+  border-top: 2px solid;
+  background-color: rgba(240, 240, 109, 0.461);
+  color: rgb(41, 97, 175);
 }
